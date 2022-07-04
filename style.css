@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: lightgrey;
+    width: 80vw;
+    height: 150vh;
+}
+
+#main{
+    position: absolute;
+    margin-top: 50px;
+    justify-content: center;
+    width: 80vw;
+    height: 150vh;
+    color: black;
+}
+
+#TitleName{
+    display: flex;
+    justify-content: center;
+    color: #af6781;
+    border: solid black 7px;
+    border-radius: 30%;
+    width: 40%;
+    margin-left: 30%;
+}
+
+#name{
+    display: flex; 
+    justify-content: center;
+}
+
+#textBox{
+    margin-left: 20px;
+    height: 20px;
+    background-color: #ada0cb;
+    border: solid#633850;
+}
+
+#msg{
+    display: flex; 
+    flex-direction: column;
+}
+
+#field1{
+    display: flex;
+    justify-content: center;
+}
+
+#textBox1{
+    width: 300px;
+    height: 50px;
+    background-color: #ada0cb;
+    margin-left: 28vw;
+    justify-content: center;
+    border: solid#633850;
+}
+
+#field2{
+    display: flex;
+    justify-content: center;
+}
+
+#textBox2{
+    width: 300px;
+    height: 50px;
+    background-color: #ada0cb;
+    margin-left: 28vw;
+    justify-content: center;
+    border: solid#633850;
+}
+
+#field3{
+    display: flex;
+    justify-content: center;
+}
+
+#lie{
+    display: flex;
+    justify-content: center;
+}
+
+#field4{
+    display: flex;
+    justify-content: center;
+}
+
+#feel{
+    display: flex;
+    justify-content: center;
+}
+
+#field5{
+    display: flex;
+    justify-content: center;
+}
+
+#trip{
+    display: flex;
+    justify-content: center;
+}
+
+#colour{
+    display: flex;
+    justify-content: center;
+}
+
+#final{
+    width: 300px;
+    height: 50px;
+    background-color: #ada0cb;
+    margin-left: 28vw;
+    display: flex;
+    justify-content: center;
+    border: solid#633850;
+}
+
+#bestColour{
+    display: flex;
+    justify-content: center;
+}
+
+#x{
+    display: flex;
+    justify-content: center;
+}
+
+
+#backgroundImage{
+   margin-top: 40px;
+   width: 80vw;
+   height: 150vh;
+}
+
